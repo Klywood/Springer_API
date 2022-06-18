@@ -1,0 +1,6 @@
+/logs/
+/.idea/
+/__pycache__/
+/collected_data/
+/.ipynb_checkpoints/
+/api_token.py
