@@ -4,7 +4,7 @@ Module for working with Springer API. \
 Main documentation: https://dev.springernature.com/
 
 ## Create 'api_token.py' file and put your API_token in 'TOKEN' variable
-<img width="340" alt="1" src="https://user-images.githubusercontent.com/1857769/174309879-ea8d7b7e-20dd-4589-99f7-0ee9d01f6a7c.PNG">
+<img width="486" alt="1" src="https://user-images.githubusercontent.com/1857769/174427784-9ddf0545-29a3-4326-8281-cbe6e96a3097.PNG">
 
 ## Allows:
  - collect and save summary information about records (articles, books, etc.) to files
