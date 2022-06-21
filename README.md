@@ -12,7 +12,7 @@ Main documentation: https://dev.springernature.com/
  - collect and save summary information about records (articles, books, etc.) to files
  - collect general statistics (total number of publications by countries, subjects, etc.) 
 for various disciplines in the specified range of years
- - create pandas DataFrames with numbers of publications with numbers of publications by 
+ - create pandas DataFrames with numbers of publications by 
 category with specified query
  - work with collected data in Jupyter Notebook for processing and visualization
  
